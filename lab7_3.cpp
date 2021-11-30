@@ -13,3 +13,4 @@ int main(){
   cout << adiff(1000,280);
   cout << adiff(60,244);
 }
+
